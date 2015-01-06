@@ -1,0 +1,32 @@
+PMD:(Sourcefore.net) ;
+Rules for developers;
+
+OWQSP :-
+A1: Injection 
+A2: Broken Authentication and session mgnt 
+A3: Cross Site Scripting
+A4: Insecure Direct Object References
+
+A5:Security Miscogfiguration 
+A6: Senstive Data Exprosure
+A7: Missing Function level Access Control
+A8:Cross Site Request Forgery
+
+A9: Using know Vulnerable components
+A10: Unvalidated Redirects and Forwards;
+
+Hardened OS 
+
+www.owasp.org get info SQl injection Prevention Cheat Sheet;
+
+Project with appropriate mechanisms:-
+
+Use TLS on all connections with senstive data
+use HSTS (HTTP Strict Transport Secirity)
+
+www.owasp.org/Error_Handling
+FrameWorks:-
+OpenScoure CG framework;
+
+UnitTesting
+JUnix used to test the peace of code
