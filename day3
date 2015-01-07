@@ -1,0 +1,13 @@
+"eclem" in eclipse package for 
+eclemma : deep (block , functional level, instrusction )
+
+Code Coverage : To identify soucre code pieces that are not covered during 
+       code messure , 
+Code Analaysis : Eclipse Flags (Addones ): JCAP ,JDepend ,PMD,CheckStyle , findBugs,
+Afferent coupling ,
+ 
+Profiling : of application code is impt to identify bottlenects early ;
+Profiling is run time code analasis
+uat.cambridgelms.org/
+tools-sit.cambridgelms.org/touchstone2/p/slash 
+Use JVM Profiling 
